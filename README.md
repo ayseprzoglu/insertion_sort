@@ -1,4 +1,4 @@
-# insertion_sort
+# İNSERTİON SORT
 
 ## Proje 1
 
