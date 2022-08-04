@@ -2,7 +2,7 @@
 
 ## Proje 1
 
-### [22,27,16,2,18,6] -> <b>Insertion Sort
+### [22,27,16,2,18,6] -> <em>Insertion Sort
 
 #### 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
     [2, 27, 16, 22, 18, 6]
